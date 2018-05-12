@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '5373'
     url: http://www.gutenberg.org/2009/agents/5373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14117#Wanted-a-Young-Woman-to-Do-Housework--13-Business-principles-applied-to-housework
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2004-11-22'
 gutenberg_type: Text
