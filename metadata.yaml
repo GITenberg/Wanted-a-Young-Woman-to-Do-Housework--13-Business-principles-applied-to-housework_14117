@@ -1,0 +1,30 @@
+_repo: Wanted-a-Young-Woman-to-Do-Housework--13-Business-principles-applied-to-housework_14117
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barker, C. Hélène
+    aliases:
+    - Barker, C. Hélène (Clara Hélène)
+    - Barker, C. Helene
+    birthdate: 1868
+    gutenberg_agent_id: '5373'
+    url: http://www.gutenberg.org/2009/agents/5373
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2004-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Household employees'
+- !lcc 'HD'
+- !lcsh 'Home economics'
+title: 'Wanted, a Young Woman to Do Housework: Business principles applied to housework'
+url: http://www.gutenberg.org/ebooks/14117
